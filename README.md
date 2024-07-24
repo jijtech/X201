@@ -1,6 +1,6 @@
 <h1 align='center'>X201</h1>
 
-<img src='X200-blowup-2048x1730.png' align='center' width='600px'/>
+<img src='X200-blowup.png' align='center' width='600px'/>
 
 **Stuff 2do:**
 * **IPS 2K 2560*1600 13.3" Display mod**
