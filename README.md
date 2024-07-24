@@ -1,10 +1,10 @@
 <h1 align='center'>X201</h1>
 
 **Last update: 24 july 2024**
-This readme isnt even startet
-<img src='https://evergreenfevers.neocities.org/pikaconstruct.gif' align='center' width='15%'/>
 
 <img src='X200-blowup.png' align='center' width='100%'/>
+
+<img src='https://evergreenfevers.neocities.org/pikaconstruct.gif' align='center' width='15%'/>
 
 Fooling around with my X220 repo had me wanting more,
 so i've decided to mobo transplat an Framework mainboard into a X201 chassie
