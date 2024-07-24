@@ -1,6 +1,8 @@
 <h1 align='center'>X201</h1>
 
 **Last update: 24 july 2024**
+This readme isnt even startet
+<img src='https://evergreenfevers.neocities.org/pikaconstruct.gif' align='center' width='15%'/>
 
 <img src='X200-blowup.png' align='center' width='100%'/>
 
@@ -29,4 +31,4 @@ Resources:
 * https://www.reddit.com/r/thinkpad/comments/s71mcx/i_3d_printed_a_new_trackpoint/ - i just want it
 
 
-<img src='https://evergreenfevers.neocities.org/pikaconstruct.gif' align='center' width='15%'/>
+
