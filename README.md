@@ -23,6 +23,6 @@ feels well integrated and has emense support.
 * **Adapt LVDS panel for mainboard** - (Convert eDP to LVDS if necessary)
 
 
-** Resources **
+Resources:
 * https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
 * https://www.xyte.ch/mods/x210-x2100/
