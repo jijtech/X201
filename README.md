@@ -24,5 +24,5 @@ feels well integrated and has emense support.
 
 
 ** Resources **
-https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
-https://www.xyte.ch/mods/x210-x2100/
+* https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
+* https://www.xyte.ch/mods/x210-x2100/
