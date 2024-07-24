@@ -26,3 +26,4 @@ feels well integrated and has emense support.
 Resources:
 * https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
 * https://www.xyte.ch/mods/x210-x2100/
+* https://www.reddit.com/r/thinkpad/comments/s71mcx/i_3d_printed_a_new_trackpoint/ - i just want it
