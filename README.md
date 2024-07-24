@@ -19,5 +19,5 @@ feels well integrated and has emense support.
 * **Antenna mod** - Good ol mods
 * **Custom I/O PCB daugther boards** - still looking into this
 * **Framework mainboard bracket** - Get mobo from their outlet
-* **convert CN2 keyboard bus connecter**
+* **convert CN2 keyboard bus connecter** - Keeping the lenovo keyboard ofc.
 * **Adapt LVDS panel for mainboard** - (Convert eDP to LVDS if necessary)
