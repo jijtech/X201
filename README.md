@@ -1,17 +1,17 @@
 <h1 align='center'>X201</h1>
 
+Fooling around with my X220 repo had me wanting more,
+so i've decided to mobo transplat an Framework mainboard into a X201 chassie
+with a few mods/upgrades.
+My new go to distro for the time being is "Pop_OS" because it's polished.
+feels well integrated and has emense support.
+
 <img src='X200-blowup.png' align='center' width='100%'/>
 
 **Stuff 2do:**
-* **IPS 2K 2560*1600 13.3" Display mod**
 * **Red ThinkLight mod**
-* **USB C PD**
 * **Internal USB** - attach RTL8812AU. 
-* **Wifi chipset mod (AX210HMW)**
-* **Firmware flash - coreboot or custom**
-* **Remove Management Engine**
-* **Meta Keycap replacement(remove windows logo)**
 * **Speaker mod - Samsung note 10 or Ipad 11" pro speakers**
-* **Quad core mod ie - Intel Core i7-3615QE (kill me..)**
-
+* **Mechanical keyboard feet** - for extra cooling
+* 
 
