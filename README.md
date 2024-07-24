@@ -29,4 +29,4 @@ Resources:
 * https://www.reddit.com/r/thinkpad/comments/s71mcx/i_3d_printed_a_new_trackpoint/ - i just want it
 
 
-<img src='https://evergreenfevers.neocities.org/pikaconstruct.gif' align='center' width='100%'/>
+<img src='https://evergreenfevers.neocities.org/pikaconstruct.gif' align='center' width='15%'/>
