@@ -23,6 +23,8 @@ feels well integrated and has emense support.
 * **convert CN2 keyboard bus connecter** - Keeping the lenovo keyboard ofc.
 * **Adapt LVDS panel for mainboard** - (Convert eDP to LVDS if necessary)
 
+<img src='mainboard.jpeg' align='center' width='90%'/>
+
 
 Resources:
 * https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
