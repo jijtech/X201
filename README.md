@@ -14,7 +14,10 @@ feels well integrated and has emense support.
 **Stuff 2do:**
 * **Red ThinkLight mod**
 * **Internal USB** - attach RTL8812AU. 
-* **Speaker mod - Samsung note 10 or Ipad 11" pro speakers**
-* **Mechanical keyboard feet** - for extra cooling
-* 
-
+* **Speaker mod** - Samsung note 10 or Ipad 11" pro speakers
+* **Mechanical keyboard fold out feet** - for extra cooling
+* **Antenna mod** - Good ol mods
+* **Custom I/O PCB daugther boards** - still looking into this
+* **Framework mainboard bracket** - Get mobo from their outlet
+* **convert CN2 keyboard bus connecter**
+* **Adapt LVDS panel for mainboard** - (Convert eDP to LVDS if necessary)
