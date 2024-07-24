@@ -10,6 +10,8 @@ with a few mods/upgrades.
 My new go to distro for the time being is "Pop_OS" because it's polished.
 feels well integrated and has emense support.
 
+TLDR: Mission is to drop an framework mobo into an X201( basically a Framework/nb51 X2100 ) 
+
 <img src='https://evergreenfevers.neocities.org/pikaconstruct.gif' align='center' width='15%'/>
 
 **Stuff 2do:**
