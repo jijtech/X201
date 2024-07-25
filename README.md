@@ -39,7 +39,7 @@ Get the board from https://frame.work/dk/en/outlet
 * **Refitting/Drilling ports for the base/mainboard**
 * **Firmware blobs might disagree**
 * **battery BMS communication**
-* **Inner dimentions**
+* **Inner dimentions** - some measurements might not add up
 * **Some mainboard ports needs redirection** - like the battery connetor being on the opposit side.
 
 Resources:
