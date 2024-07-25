@@ -1,6 +1,6 @@
 <h1 align='center'>X201</h1>
 
-**Last update: 24 july 2024**
+**Last update: 25 july 2024**
 
 <img src='X200-blowup.png' align='center' width='100%'/>
 
@@ -26,6 +26,7 @@ TLDR: Mission is to drop an framework mobo into an X201( basically a Framework/n
 * **Adapt LVDS panel for mainboard** - (Convert eDP to LVDS if necessary)
 
 <img src='mainboard.jpeg' align='center' width='90%'/>
+Get the board from 'https://frame.work/dk/en/outlet'
 
 
 Resources:
