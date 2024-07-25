@@ -40,6 +40,7 @@ Get the board from https://frame.work/dk/en/outlet
 * **Firmware blobs might disagree**
 * **battery BMS communication**
 * **Inner dimentions**
+* **Some mainboard ports needs redirection** - like the battery connetor being on the opposit side.
 
 Resources:
 * https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
