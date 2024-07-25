@@ -57,6 +57,7 @@ I might use parts of Latitude 7330 Rugged Extreme. idk yet.
 
 Resources:
 * https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
+* https://www.rowsum.com/the-ultimate-guide-to-reading-schematics-uncover-the-blueprint-of-electronics/
 * https://www.xyte.ch/mods/x210-x2100/
 * https://www.reddit.com/r/thinkpad/comments/s71mcx/i_3d_printed_a_new_trackpoint/ - i just want it
 * https://en.wikipedia.org/wiki/Pop!_OS
