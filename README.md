@@ -34,11 +34,12 @@ Get the board from https://frame.work/dk/en/outlet
 ## Gameplan
 
 <img src='sketch.jpg' align='center' width='70%'/>
+
 mainboard diamentions:
 233mm x 112mm x 6.8mm
+
+X201 mobo diamentions:
 180mm x 145mm x 16mm(175mm depth with fan)
-x210 mobo chassie diamentions:
-N/A
 
 ### I/O
 Thanks to based Apple for making the Type C dongles obligatory on the daily - 
