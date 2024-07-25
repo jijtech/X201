@@ -52,6 +52,7 @@ then i get an nice selection for I/O on each side of the x201 as an alternative 
 
 <img src='https://i1.wp.com/www.xyte.ch/wp-content/uploads/2020/06/DSC1323-scaled.jpg?ssl=1&resize=1707%2C1707' align='center' width='80%'/>
 
+I might use parts of Latitude 7330 Rugged Extreme. idk yet.
 
 Resources:
 * https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
