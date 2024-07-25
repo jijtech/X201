@@ -49,7 +49,7 @@ then i get an nice selection for I/O on each side of the x201 as an alternative 
 * **Some mainboard ports needs redirection** - like the battery connetor being on the opposit side.
 
 
-<img src='https://i1.wp.com/www.xyte.ch/wp-content/uploads/2020/06/DSC1323-scaled.jpg?ssl=1&resize=1707%2C1707' align='center' width='100%'/>
+<img src='https://i1.wp.com/www.xyte.ch/wp-content/uploads/2020/06/DSC1323-scaled.jpg?ssl=1&resize=1707%2C1707' align='center' width='80%'/>
 
 
 Resources:
