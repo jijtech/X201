@@ -15,7 +15,7 @@ TLDR: Mission is to drop an framework mobo into an X201( basically a Framework/n
 
 <img src='https://evergreenfevers.neocities.org/pikaconstruct.gif' align='center' width='15%'/>
 
-**Stuff 2do:**
+## Stuff 2do:
 * **Red ThinkLight mod**
 * **Internal USB** - attach RTL8812AU. 
 * **Speaker mod** - Samsung note 10 or Ipad 11" pro speakers
