@@ -34,6 +34,12 @@ Get the board from https://frame.work/dk/en/outlet
 
 <img src='sketch.jpg' align='center' width='70%'/>
 
+## Issues
+* **keep the memory slot door usable**
+* **Refitting/Drilling ports for the base/mainboard**
+* **Firmware blobs might disagree**
+* **battery BMS communication** 
+
 Resources:
 * https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
 * https://www.xyte.ch/mods/x210-x2100/
