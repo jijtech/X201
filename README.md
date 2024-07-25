@@ -27,7 +27,7 @@ TLDR: Mission is to drop an framework mobo into an X201( basically a Framework/n
 * **Adapt LVDS panel for mainboard** - (Convert eDP to LVDS if necessary)
 * **rework the base** - the base need to account for the boardswap aswell as cooling redirection.
 
-<img src='mainboard.jpeg' align='center' width='90%'/>
+<img src='mainboard.jpeg' align='center' width='75%'/>
 Get the board from https://frame.work/dk/en/outlet
 
 ## Gameplan
