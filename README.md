@@ -1,4 +1,3 @@
-< img src='pikaconstruct.gif' align='center'/>
 
 <h1 align='center'>X201</h1>
 
