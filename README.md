@@ -28,7 +28,7 @@ TLDR: Mission is to drop an framework mobo into an X201( basically a Framework/n
 <img src='mainboard.jpeg' align='center' width='90%'/>
 Get the board from https://frame.work/dk/en/outlet
 
-<img src='sketch.jpeg' align='center' width='50%'/>
+<img src='sketch.jpg' align='center' width='50%'/>
 
 Resources:
 * https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
