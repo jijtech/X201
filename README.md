@@ -38,7 +38,8 @@ Get the board from https://frame.work/dk/en/outlet
 * **keep the memory slot door usable**
 * **Refitting/Drilling ports for the base/mainboard**
 * **Firmware blobs might disagree**
-* **battery BMS communication** 
+* **battery BMS communication**
+* **Inner dimentions**
 
 Resources:
 * https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
