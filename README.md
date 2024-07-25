@@ -1,4 +1,4 @@
-<img src='pikaconstruct.gif' align='' width='15%'/>
+< align='center' img src='pikaconstruct.gif' width='15%'/>
 
 <h1 align='center'>X201</h1>
 
