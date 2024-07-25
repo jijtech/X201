@@ -25,6 +25,7 @@ TLDR: Mission is to drop an framework mobo into an X201( basically a Framework/n
 * **Framework mainboard bracket** - Get mobo from their outlet
 * **convert CN2 keyboard bus connecter** - Keeping the lenovo keyboard ofc.
 * **Adapt LVDS panel for mainboard** - (Convert eDP to LVDS if necessary)
+* **rework the base** - the base need to account for the boardswap aswell as cooling redirection.
 
 <img src='mainboard.jpeg' align='center' width='90%'/>
 Get the board from https://frame.work/dk/en/outlet
