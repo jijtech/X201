@@ -21,7 +21,7 @@ TLDR: Mission is to drop an framework mobo into an X201( basically a Framework/n
 * **Speaker mod** - Samsung note 10 or Ipad 11" pro speakers
 * **Mechanical keyboard fold out feet** - for extra cooling
 * **Antenna mod** - Good ol mods
-* **Custom I/O PCB daugther boards** - still looking into this
+* **Custom I/O** - still looking into this
 * **Framework mainboard bracket** - Get mobo from their outlet
 * **convert CN2 keyboard bus connecter** - Keeping the lenovo keyboard ofc.
 * **Adapt LVDS panel for mainboard** - (Convert eDP to LVDS if necessary)
