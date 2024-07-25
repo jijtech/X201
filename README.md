@@ -1,3 +1,5 @@
+<img src='https://evergreenfevers.neocities.org/pikaconstruct.gif' align='center' width='15%'/>
+
 <h1 align='center'>X201</h1>
 
 **Last update: 25 july 2024**
