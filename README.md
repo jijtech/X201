@@ -37,6 +37,9 @@ Get the board from https://frame.work/dk/en/outlet
 mainboard diamentions:
 233mm x 112mm x 6.8mm
 
+x210 mobo chassie diamentions:
+N/A
+
 ### I/O
 Thanks to based Apple for making the Type C dongles obligatory on the daily - 
 then i get an nice selection for I/O on each side of the x201 as an alternative for making daugtherboard.
