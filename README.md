@@ -48,6 +48,10 @@ then i get an nice selection for I/O on each side of the x201 as an alternative 
 * **Inner dimentions** - some measurements might not add up
 * **Some mainboard ports needs redirection** - like the battery connetor being on the opposit side.
 
+
+<img src='https://i1.wp.com/www.xyte.ch/wp-content/uploads/2020/06/DSC1323-scaled.jpg?ssl=1&resize=1707%2C1707' align='center' width='100%'/>
+
+
 Resources:
 * https://www.instructables.com/Make-a-ThinkPad-keyboard-USB-adapter-with-Arduino/
 * https://www.xyte.ch/mods/x210-x2100/
