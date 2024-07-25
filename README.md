@@ -26,7 +26,7 @@ TLDR: Mission is to drop an framework mobo into an X201( basically a Framework/n
 * **Adapt LVDS panel for mainboard** - (Convert eDP to LVDS if necessary)
 
 <img src='mainboard.jpeg' align='center' width='90%'/>
-Get the board from 'https://frame.work/dk/en/outlet'
+Get the board from https://frame.work/dk/en/outlet
 
 
 Resources:
