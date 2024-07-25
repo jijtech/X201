@@ -42,6 +42,7 @@ then i get an nice selection for I/O on each side of the x201 as an alternative 
 <img src='dongle.jpg' align='center' width='100%'/>
 
 ## Issues
+* **Adrino Controller clone** - finding these can be tricky
 * **keep the memory slot door usable**
 * **Refitting/Drilling ports for the base/mainboard**
 * **Firmware blobs might disagree**
