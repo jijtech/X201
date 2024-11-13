@@ -1,6 +1,11 @@
 
 <h1 align='center'>X201</h1>
 
+---
+Repo closed due to others beating me to it, follow them for updates on framepads, sorry.
+https://www.reddit.com/r/thinkpad/comments/1gpozs8/update_on_x41_w_framework_motherboard/
+---
+
 **Last update: 25 july 2024**
 
 <img src='X200-blowup.png' align='center' width='100%'/>
